@@ -54,7 +54,7 @@ cd headerscanner
 pip install requests
 
 3. Run the Tool
-python headerscanner.py
+python security_header_scanner.py
 
 Usage
 1. After starting the tool, you will be prompted to enter the URL of the website you want to scan.
